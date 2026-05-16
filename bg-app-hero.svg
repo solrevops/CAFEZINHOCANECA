@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200" fill="none">
+<rect width="1600" height="1200" fill="#F7F1E8"/>
+<g opacity="0.6"><circle cx="1280" cy="165" r="260" fill="url(#g1)"/><circle cx="340" cy="980" r="330" fill="url(#g2)"/></g>
+<path d="M112 842C233 759 330 744 448 773C599 810 702 978 882 954C1013 936 1119 811 1313 824C1417 831 1490 878 1560 930" stroke="#00AEEF" stroke-opacity="0.14" stroke-width="8" stroke-linecap="round"/>
+<path d="M67 892C205 832 325 838 455 876C605 920 716 1053 901 1041C1024 1033 1122 947 1300 956C1402 961 1486 1006 1554 1056" stroke="#EC008C" stroke-opacity="0.12" stroke-width="10" stroke-linecap="round"/>
+<path d="M870 185C931 236 974 292 986 362C999 433 981 510 1031 568C1083 628 1178 646 1243 700" stroke="#FFF200" stroke-opacity="0.14" stroke-width="7" stroke-linecap="round"/>
+<path d="M1037 91C1102 160 1130 237 1123 320C1116 403 1079 459 1097 535" stroke="#4A2E1B" stroke-opacity="0.08" stroke-width="4" stroke-linecap="round"/>
+<path d="M1208 151C1255 211 1277 254 1277 307" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="16" stroke-linecap="round"/>
+<path d="M1261 131C1315 204 1341 266 1339 335" stroke="#FFFFFF" stroke-opacity="0.38" stroke-width="12" stroke-linecap="round"/>
+<defs>
+<radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1280 165) rotate(90) scale(260)"><stop stop-color="#FFFFFF" stop-opacity="0.75"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(340 980) rotate(90) scale(330)"><stop stop-color="#FFFFFF" stop-opacity="0.6"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient>
+</defs></svg>
