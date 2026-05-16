@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="3600" viewBox="0 0 1600 3600" fill="none">
+  <defs>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+    <linearGradient id="flow" x1="-50" y1="0" x2="1650" y2="3600" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00AEEF" stop-opacity=".10"/>
+      <stop offset=".28" stop-color="#EC008C" stop-opacity=".09"/>
+      <stop offset=".55" stop-color="#FFF200" stop-opacity=".10"/>
+      <stop offset=".78" stop-color="#00AEEF" stop-opacity=".07"/>
+      <stop offset="1" stop-color="#EC008C" stop-opacity=".05"/>
+    </linearGradient>
+  </defs>
+  <path d="M-180 360C210 130 460 520 820 305C1120 126 1360 160 1780 20" stroke="url(#flow)" stroke-width="26" stroke-linecap="round" filter="url(#blur)" opacity=".78"/>
+  <path d="M-170 1040C210 820 520 1160 870 940C1160 760 1380 840 1770 1090" stroke="#00AEEF" stroke-width="16" stroke-linecap="round" filter="url(#blur)" opacity=".10"/>
+  <path d="M-150 1570C240 1330 550 1680 910 1440C1200 1248 1380 1370 1760 1600" stroke="#EC008C" stroke-width="16" stroke-linecap="round" filter="url(#blur)" opacity=".11"/>
+  <path d="M-120 2120C300 1880 600 2230 970 2000C1260 1820 1400 1930 1720 2170" stroke="#FFF200" stroke-width="18" stroke-linecap="round" filter="url(#blur)" opacity=".12"/>
+  <path d="M-140 2810C260 2580 570 2920 930 2700C1220 2520 1390 2600 1740 2860" stroke="#00AEEF" stroke-width="14" stroke-linecap="round" filter="url(#blur)" opacity=".08"/>
+  <path d="M-90 3260C320 3050 640 3340 990 3120C1270 2940 1420 3040 1700 3300" stroke="#EC008C" stroke-width="14" stroke-linecap="round" filter="url(#blur)" opacity=".07"/>
+</svg>
