@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2200" viewBox="0 0 1600 2200" fill="none">
+  <defs>
+    <filter id="softBlur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+    <linearGradient id="voice" x1="100" y1="0" x2="1500" y2="2200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00AEEF" stop-opacity=".12"/>
+      <stop offset=".42" stop-color="#EC008C" stop-opacity=".10"/>
+      <stop offset="1" stop-color="#FFF200" stop-opacity=".12"/>
+    </linearGradient>
+  </defs>
+  <path d="M-120 360C210 240 410 470 670 330C945 182 1140 214 1710 90" stroke="url(#voice)" stroke-width="20" stroke-linecap="round" filter="url(#softBlur)" opacity=".9"/>
+  <path d="M-90 1120C260 930 485 1200 760 1030C1050 850 1270 930 1705 1160" stroke="#EC008C" stroke-width="14" stroke-linecap="round" filter="url(#softBlur)" opacity=".12"/>
+  <path d="M-80 1510C250 1340 520 1608 830 1405C1130 1210 1330 1300 1690 1560" stroke="#00AEEF" stroke-width="14" stroke-linecap="round" filter="url(#softBlur)" opacity=".12"/>
+  <path d="M-30 1900C310 1680 550 1930 895 1740C1180 1584 1370 1660 1690 1910" stroke="#FFF200" stroke-width="16" stroke-linecap="round" filter="url(#softBlur)" opacity=".13"/>
+</svg>
